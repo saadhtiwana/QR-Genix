@@ -25,7 +25,7 @@ Welcome to **QR-Genix**, a sleek and modern QR code generator that instantly con
 
 ### Demo 🎥
 
-Try it out [here](https://your-demo-link.com). *(Replace with your actual demo link)*
+Try it out [here](https://saadhtiwana.github.io/QR-Genix/).
 
 ---
 
