@@ -8,8 +8,6 @@ Welcome to **QR-Genix**, a sleek and modern QR code generator that instantly con
 
 - **Quick & Easy**: Generate your QR code with just one click. ⚡
 - **Download Ready**: Get your QR code as an image and share it effortlessly. 📥
-- **Cool Design**: Futuristic UI with smooth animations and a dynamic particle background. 💫
-- **Customizable**: Personalize your QR codes with your own colors and styles. 🎨
 - **Responsive**: Looks great on any device! 📱💻
 
 ---
